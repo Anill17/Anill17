@@ -21,10 +21,10 @@ A Java messaging application with JWT authentication, friends & group messaging,
 *Focus:* Authentication, REST APIs, Microservices patterns.
 
 #### 📊 **cs210_spend_data**  
-Python data analysis project — likely for coursework or portfolio analysis.
+Python data analysis project.
 
 #### ☁️ **Distributed-Services-Platform**  
-Demonstrates fundamentals of distributed services in Java — great for backend roles.
+Demonstrates fundamentals of distributed services in Java with using caching, Event Driven Architecture, ElasticSearch.
 
 ---
 
@@ -54,7 +54,7 @@ Java • Spring Boot • REST APIs
 Kafka • Redis • Elasticsearch
 
 ### Databases
-MongoDB • PostgreSQL
+MongoDB • PostgreSQL • SupaBase 
 
 ### Languages
 Python • Java • TypeScript • C++ • Sql
