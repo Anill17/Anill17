@@ -57,7 +57,7 @@ Kafka • Redis • Elasticsearch
 MongoDB • PostgreSQL
 
 ### Languages
-Python • Java • TypeScript • C++ •Sql
+Python • Java • TypeScript • C++ • Sql
 
 ### Web & Fullstack
 Next.js  • JS  
