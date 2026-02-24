@@ -75,7 +75,7 @@ Next.js  • JS
 ## 📫 Connect With Me
 
 🔹 GitHub: https://github.com/Anill17  
-🔹 LinkedIn: linkedin.com/in/anil-sumer-topaloglu-631128282  
+🔹 LinkedIn: https://www.linkedin.com/in/anil-sumer-topaloglu-631128282
 🔹 Email: sumer_topaloglu@hotmail.com
 
 ---
