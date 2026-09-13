@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Anıl (Anill17)
 
-🎓 Senior Year Computer Science Student at Sabancı University  
+🎓 Computer Science and Engineering Graduate from Sabancı University  
 💻 Backend Developer | Distributed Systems | Data Engineering  
 
 ---
